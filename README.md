@@ -1,1 +1,1 @@
-# .github
+# Clone Coding Project Blog
